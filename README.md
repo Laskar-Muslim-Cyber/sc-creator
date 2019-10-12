@@ -3,7 +3,11 @@ Ini yg v2 nya ya gan .Monggo di coba
 
 
 Cara memakai scriptnya 
-In termux
+
+Buka termux
+
+
+
 $pkg update && PKG upgrade
 
 
