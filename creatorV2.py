@@ -73,7 +73,7 @@ print ("$$       |$$ | $/  $$ |$$    $$/ ")
 print ("$$$$$$$$/ $$/      $$/  $$$$$$/  ")
 
 print ("\x1b[1;91m<=========================================>")
-print ("\x1b[1;95mcreate by Mr.p3mu14")
+print ("\x1b[1;95mcreated by Mr.p3mu14")
 print ("v.2.0")
 print ("\x1b[1;91mDilarang Keras menulis ulang atau ")
 print ("Merekam Script Ini Tanpa Sepengetahuan")
